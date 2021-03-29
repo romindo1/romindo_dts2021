@@ -76,7 +76,7 @@ Dapatkan juga berbagai informasi produk terbaru, produk spesial, produk yang sed
 				</div>	
 			</div>
 			<div>
-				<p>&copy Copyright 2017. Dian Rizky</p>
+				<p>&copy Copyright 2021. Romindo - DTS2021</p>
 			</div>
 		</div>
 	</body>
